@@ -1,4 +1,4 @@
-# flutterbmicalculator
+# flutter BMI calculator
 
 A BMI calculator app to practice Flutter
 
